@@ -7,7 +7,8 @@ Skill Highlighter is a Chrome extension designed to streamline your job applicat
 ## 🛠️ Technologies Used
 - JavaScript
 - CSS
-- Chrome Extensions API
+- DOM API
+- MutationObserver
 ## 📁 Project Structure
 ```
 
